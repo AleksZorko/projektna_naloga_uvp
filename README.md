@@ -18,7 +18,7 @@ V datoteki **analiza.ipynb** sem z uporabo knjižnic Pandas in Matplotlib uvozil
 
 ## Ugotovitve
 
-Na podlagi analiziranih podatkov sem ugotovil, da je porast poskusov za 3 točke močno vplival na zmanjšanje števila klasičnih metov za 2 točki (predvsem metov s polrazdalje, ki so skoraj izginili). Kljub drastično večjemu volumnu poskusov za tri točke, so igralci v povprečju obdržali visoko in stabilno natančnost. Prav tako se je zvišalo povprečje doseženih točk na tekmo, medtem ko je število napadalnih skokov zaradi širjenja igre navzven močno upadlo.
+Na podlagi analiziranih podatkov sem ugotovil, da je porast poskusov za 3 točke močno vplival na zmanjšanje števila klasičnih metov za 2 točki (predvsem metov s polrazdalje, ki so skoraj izginili). Kljub drastično večjemu volumnu poskusov za tri točke, so igralci v povprečju obdržali visoko in stabilno natančnost. Prav tako se je zvišalo povprečje doseženih točk na tekmo, medtem ko je število napadalnih skokov zaradi širjenja igre navzven upadlo.
 
 ### Navodila za uporabo
 
